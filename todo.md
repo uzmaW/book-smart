@@ -1,4 +1,4 @@
-# Calendar Booking App - Todo List
+# Calendar Booking App - Todo List specification
 
 ## Phase 2: Set up Laravel project structure and dependencies ✓
 - [x] Install PHP and required extensions
